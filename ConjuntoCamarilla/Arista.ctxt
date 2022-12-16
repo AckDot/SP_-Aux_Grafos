@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Arista
+comment0.text=\r\n\ Extension\ de\ la\ clase\ \r\n
+comment1.params=nodoRaiz\ nodoHijo
+comment1.target=Arista(Nodo,\ Nodo)
+comment2.params=
+comment2.target=Nodo\ getInicio()
+comment3.params=
+comment3.target=Nodo\ getDestino()
+comment4.params=a
+comment4.target=void\ setInicio(Nodo)
+comment5.params=b
+comment5.target=void\ setDestino(Nodo)
+numComments=6

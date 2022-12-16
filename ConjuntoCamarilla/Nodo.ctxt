@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Nodo
+comment1.params=valor
+comment1.target=Nodo(int)
+comment2.params=
+comment2.target=int\ getValor()
+comment3.params=
+comment3.target=boolean\ isAgregado()
+comment4.params=va
+comment4.target=void\ setIsAgregado(boolean)
+numComments=5

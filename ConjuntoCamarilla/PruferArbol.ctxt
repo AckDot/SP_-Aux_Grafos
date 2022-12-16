@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PruferArbol
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=secuencia
+comment2.target=Arbol\ secuenciaPrufer(int[])
+comment3.params=a
+comment3.target=void\ imprimirArbol(Arbol)
+numComments=4

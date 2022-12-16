@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Arbol
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Arbol\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Arbol()
+comment2.params=
+comment2.target=java.util.ArrayList\ getListaAristas()
+comment3.params=a
+comment3.target=void\ setListaAristas(java.util.ArrayList)
+comment4.params=b
+comment4.target=void\ setListaNodos(java.util.ArrayList)
+comment5.params=
+comment5.target=java.util.ArrayList\ getListaNodos()
+comment6.params=n
+comment6.target=void\ agregarNodo(Nodo)
+comment7.params=a
+comment7.target=void\ agregarArista(Arista)
+numComments=8

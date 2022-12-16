@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=FindClique
+comment0.text=\r\n\ Este\ programa\ crea\ un\ grafo\ de\ prueba\ con\ 9\ Nodos\ y\ 9\ aristas,\ \r\n\ y\ luego\ utiliza\ el\ m\u00E9todo\ findClique()\ para\ encontrar\ un\ conjunto\ camarilla\r\n\ en\ el\ grafo.\ Si\ se\ encuentra\ un\ conjunto\ camarilla,\ el\ programa\ devuelve\ el\ n\u00FAmero\r\n\ del\ nodo\ correspondiente\ en\ la\ consola.\ Si\ no\ se\ encuentra\ ning\u00FAn\ conjunto\ camarilla,\r\n\ el\ programa\ devuelve\ un\ mensaje\ indicando\ que\ no\ se\ encontr\u00F3\ ning\u00FAn\ conjunto\ camarilla\ en\ el\ grafo.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nodos\ aristas
+comment2.target=int\ getMayorTamanioCamarilla(java.util.List,\ java.util.List)
+comment3.params=v1\ v2\ nodos\ aristas
+comment3.target=int\ getTamanioCamarilla(Nodo,\ Nodo,\ java.util.List,\ java.util.List)
+comment4.params=v1\ v2\ aristas
+comment4.target=boolean\ isConnected(Nodo,\ Nodo,\ java.util.List)
+numComments=5
